@@ -1,0 +1,13 @@
+body {
+    background-color: gray;
+}
+.header {
+    color: blue;
+    font-weight: bold;
+}
+.pizaa {
+    display: inline-block;
+}
+.pic-3, .pic-2, .pic-1 {
+    height: 200px;
+}
